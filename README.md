@@ -21,6 +21,15 @@ The PlantVillage dataset is a comprehensive collection of plant leaf images, eac
 
 - **evaluate_model.py**: This script evaluates the model's performance on a test dataset and displays the accuracy.
 
+## Model Downloads
+
+You can download the pre-trained models for plant disease classification from the following Google Drive link:
+
+[Plant Disease Classification Models](https://drive.google.com/drive/folders/14k1bIcmd6kCqPx5QSMDHJ7QCh4b0s92p?usp=sharing)
+
+Please note that these models are pre-trained on the PlantVillage dataset and can be used for making predictions on new plant disease images.
+
+
 ## Model Architecture
 
 Our CNN model architecture incorporates the following layers:
