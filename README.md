@@ -1,4 +1,3 @@
-# Plant-Disease-Monitoring
 # Plant Disease Classification using TensorFlow and Keras
 
 This project focuses on leveraging deep learning techniques with TensorFlow and Keras to classify plant diseases. By training a Convolutional Neural Network (CNN) on the PlantVillage dataset, we aim to accurately identify various diseases affecting plants based on leaf images.
