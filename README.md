@@ -7,7 +7,7 @@ This project focuses on leveraging deep learning techniques with TensorFlow and 
 
 The PlantVillage dataset is a comprehensive collection of plant leaf images, each associated with specific disease classes. It encompasses different plant species and a variety of diseases that commonly affect them.
 
-- **Dataset Download**: You can obtain the PlantVillage dataset [here](https://data.mendeley.com/datasets/tywbtsjrjv/1). Ensure that you organize the dataset as described in the project structure section.
+- **Dataset Download**: You can obtain the PlantVillage dataset [here](https://www.kaggle.com/datasets/emmarex/plantdisease). Ensure that you organize the dataset as described in the project structure section.
 
 ## Project Structure
 
